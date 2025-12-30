@@ -16,6 +16,7 @@ c. While the 0-1 mile category contains the highest volume of customers, it also
 Recommendation: To address this high non-purchase rate in our largest demographic, the company should consider moving away from marketing the bike as a transportation tool, to marketing it as a wellness and workout tool.
 ![Pivot Table A](Pivot%20Tables%20A.PNG)
 ![Pivot Table B](Pivot%20Table%20B.PNG)
+![Bike Sales Dashboard](Cleaned%20Data.PNG)
 
 
 
