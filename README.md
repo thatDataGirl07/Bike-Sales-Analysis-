@@ -14,7 +14,8 @@ Marketing efforts should be doubled down here while investigating why the <30 de
 c. While the 0-1 mile category contains the highest volume of customers, it also displays the highest volume of non-purchasers. This reveals the Proximity Paradox (proximity does not equal necessity), implying that since the people in this category live close to their jobs, the utility of a bike is low.
 
 Recommendation: To address this high non-purchase rate in our largest demographic, the company should consider moving away from marketing the bike as a transportation tool, to marketing it as a wellness and workout tool.
-![Pivot Tables](Pivot%20Tables%20A.PNG)
+![Pivot Table A](Pivot%20Tables%20A.PNG)
+![Pivot Table B](Pivot%20Table%20B.PNG)
 
 
 
