@@ -1,5 +1,5 @@
 # Bike-Sales-Analysis-
-[Alt Text](https://raw.githubusercontent.com/thatDataGirl07/Bike-Sales-Analysis-/refs/heads/main/Bike%20Sales%20Dashboard.PNG)
+[Bike Sales Dashboard](![Bike Sales Dashboard](Bike%20Sales%20Dashboard.PNG))
 I dove into a Bike Buyers dataset to identify what actions drives bike purchase. Beyond the charts, here are three takeaways from the dataset: 
 a. Income analysis shows that male customers have a higher average salary than female customers. While this higher purchasing power correlates with the higher volume of bike sales among men, it is important to consider other contributing factors such as commute needs or gender-targeted marketing.
 
